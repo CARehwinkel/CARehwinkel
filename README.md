@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CARehwinkel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning cybersecurity
+- 👀 Some of these webpages are for educational purposes in cybersecurity courses
+
 
 <!---
 CARehwinkel/CARehwinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
